@@ -7,7 +7,7 @@ body{
 
 /**HEADER **/
 #header-nav{
-	background-color: #FFFAF0
+	background-color: #FFFAF0;
 	border-radius:0;
 	border:0;
 	top:0;
@@ -61,7 +61,7 @@ text-align: center;
 
 .navbar-toggle ul li a{
 	text-decoration: none;
-	display: block
+	display: block;
 }
 
 .navbar-toggle ul li a:hover{
